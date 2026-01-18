@@ -269,14 +269,6 @@ WebSocket connection broadcasts:
 - WebSocket reduces polling overhead
 - Data fetched in parallel where possible
 
-## Screenshots
 
-The dashboard includes:
-1. **Overview Tab**: Metric cards, sales charts, top products
-2. **Transactions Tab**: Full transaction list with filtering
-3. **Fraud Detection Tab**: Suspicious activity monitoring
-4. **Alerts Panel**: Real-time notifications sidebar
-
----
 
 Built for SageTeck Employee Evaluation Task
